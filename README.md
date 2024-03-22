@@ -11,6 +11,7 @@ Oh oh oh oh oh oh oh oh.ohhhh
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/55dddcc3-2a6c-4889-b2aa-b90ccda456eb)
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/aaa6cb38-5311-45ae-88be-85f5575226a0)
 
-compile:
+compile:<br><br><br>
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/208199c0-e434-4f9e-834a-5de992c5d46f)
+<br><br>
 The csc command can be used to create an executable file as is.
