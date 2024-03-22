@@ -12,4 +12,5 @@ Currently, this application lacks dictionary functionality as it doesn't impleme
 compile:<br><br><br>
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/208199c0-e434-4f9e-834a-5de992c5d46f)
 <br><br>
-The csc command can be used to create an executable file as is.
+The csc command can be used to create an executable file as is.<br><br>
+In addition, this time, the panel is placed to add functionality to columns and rows, which is reproduced by dividing the panel into sections.
