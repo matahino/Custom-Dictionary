@@ -4,8 +4,6 @@ Of course, such an environment wasn't conducive to learning. <br>
 So, I created a dictionary with just the defaults. <br>
 "Learn from this," I'd say to my past self. <br>
 Currently, this application lacks dictionary functionality as it doesn't implement features like Linq, making it impossible to add or customize.<br> 
-That's why I opted for a Spartan education, teaching directly to the body.<br>
-Oh oh oh oh oh oh oh oh.ohhhh
 
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/9e7da90f-9887-49fb-b9bc-f057a98ae3d0)
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/55dddcc3-2a6c-4889-b2aa-b90ccda456eb)
