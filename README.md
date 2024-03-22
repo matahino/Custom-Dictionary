@@ -19,6 +19,9 @@ In addition, this time, the panel is placed to add functionality to columns and 
 before :<br><br>
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/194a2ab4-4720-49c9-bc25-6d84a5537f73)
 <br><br>
-after :
+expansion :
 ![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/a9400c3a-e391-428b-95e4-1ed1c9efe3d9)
 
+<br><br>
+Visualizing columns and rows:<br><br>
+![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/34f5d8cc-77e5-4d05-92b2-da098301eff7)
