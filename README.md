@@ -14,3 +14,11 @@ compile:<br><br><br>
 <br><br>
 The csc command can be used to create an executable file as is.<br><br>
 In addition, this time, the panel is placed to add functionality to columns and rows, which is reproduced by dividing the panel into sections.
+
+<br><br>
+before :<br><br>
+![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/194a2ab4-4720-49c9-bc25-6d84a5537f73)
+<br><br>
+after :
+![image](https://github.com/matahino/Custom-Dictionary/assets/96413690/a9400c3a-e391-428b-95e4-1ed1c9efe3d9)
+
